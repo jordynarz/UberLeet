@@ -55,13 +55,13 @@
 #left
 {
 	float: left;
-	width: 16%;
+	width: 25%;
 	padding: 20px 10px 10px 10px;
 	margin: 0 2%;
 	display: inline;
 	background: #1F0927;
 	min-height:400px;
-	
+
 }
 
 
@@ -70,14 +70,14 @@
 #content
 {
 	float: left;
-	width: 56%;
+	width: 50%;
 	padding: 20px 10px 20px 10px;
 	margin: 0 0 0 2%;
 	min-height:400px;
 	background-color:#381944;
 	z-index:1;
-	
-	
+
+
 }
 
 #content h2 { margin: 0; }
@@ -85,11 +85,11 @@
 #right
 {
 	float: right;
-	width: 16%;
+	width: 25%;
 	padding: 20px 0 10px 10px;
 	margin: 0 2% 0 0;
 	background: #1F0927;
-	
+
 	}
 
 #right h3 { margin: 0; }
@@ -111,7 +111,7 @@
 body {color:#88528B;
 	background-color:#110615;
 	}
-	
+
 #Ttable
  {
 	background: none repeat scroll 0 0 #381944;
@@ -119,7 +119,7 @@ body {color:#88528B;
     border-collapse: collapse;
     margin: 1em 1em 1em 0;
 		}
-		
+
 #imgs {
 	padding:10px 5px 5px 5px;
 }
@@ -131,7 +131,7 @@ body {color:#88528B;
 
 .resources {
 		padding:5px 5px 5px 5px;
-		
+
 }
 
 .resources a{
