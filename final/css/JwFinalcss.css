@@ -1,0 +1,140 @@
+#container
+{
+	margin: 0 auto;
+	width: 100%;
+	background: #fff;
+	font-family:arial;
+}
+
+#header
+{
+	background: url('../img/crp.jpg')  left;
+	padding: 20px;
+	color:#ccc;
+}
+
+#header h1 { margin: 0; }
+
+#navigation
+{
+	float: left;
+	width: 100%;
+	background: #524878;
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #8F7CA9; }
+
+#wrapper {
+		background-color:#110615;
+}
+
+
+
+#left
+{
+	float: left;
+	width: 16%;
+	padding: 20px 10px 10px 10px;
+	margin: 0 2%;
+	display: inline;
+	background: #1F0927;
+	min-height:400px;
+	
+}
+
+
+
+
+#content
+{
+	float: left;
+	width: 56%;
+	padding: 20px 10px 20px 10px;
+	margin: 0 0 0 2%;
+	min-height:400px;
+	background-color:#381944;
+	z-index:1;
+	
+	
+}
+
+#content h2 { margin: 0; }
+
+#right
+{
+	float: right;
+	width: 16%;
+	padding: 20px 0 10px 10px;
+	margin: 0 2% 0 0;
+	background: #1F0927;
+	
+	}
+
+#right h3 { margin: 0; }
+
+#footer
+{
+	clear: both;
+	background: #524878;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
+	text-align:center;
+}
+#footer a {
+		color: #fff;
+	text-decoration: none;
+}
+
+body {color:#88528B;
+	background-color:#110615;
+	}
+	
+#Ttable
+ {
+	background: none repeat scroll 0 0 #381944;
+    border: 1px solid #AAAAAA;
+    border-collapse: collapse;
+    margin: 1em 1em 1em 0;
+		}
+		
+#imgs {
+	padding:10px 5px 5px 5px;
+}
+
+#form {
+	border:2px solid #524878;
+	padding:0 0 5px 5px;
+}
+
+.resources {
+		padding:5px 5px 5px 5px;
+		
+}
+
+.resources a{
+	color: #fff;
+	text-decoration: none;
+}
